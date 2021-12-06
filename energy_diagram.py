@@ -9,7 +9,8 @@ e|1__/  \__/5   \
 r|  3\__/       6\__
 g|
 y|
-@author: Giacomo Marchioro giacomomarchioro@outlook.com
+@original author: Giacomo Marchioro
+Modified by: Vaidish Sumaria
 """
 import matplotlib.pyplot as plt
 from matplotlib.lines import Line2D
