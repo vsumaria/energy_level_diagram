@@ -319,7 +319,7 @@ if __name__ == '__main__':
     a = ED()
     
     a.add_level(0.3,top_text='17', bottom_text='abc', color='darkblue', top_fontsize=15, bottom_fontsize=6, top_color='r', bottom_color='b')
-    a.add_level(0.6,top_text='17', bottom_text='abc', color='darkblue', top_fontsize=15, bottom_fontsize=6, top_color='r', bottom_color='b')
+    a.add_level(0.6,top_text='16', bottom_text='abc', color='darkblue', top_fontsize=15, bottom_fontsize=6, top_color='r', bottom_color='b')
    
     a.add_link(0, 1, color='r')
     a.plot(show_IDs=True)
